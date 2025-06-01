@@ -44,6 +44,8 @@ The following default users are created as part of the initial (dummy) data:
 
 **Edit `application/config/config.php`:**
 
+```php
+
 $config['base_url'] = 'http://localhost/task-tracker/';
 
 $db['default'] = array(
@@ -54,8 +56,8 @@ $db['default'] = array(
   'dbdriver' => 'mysqli',
 );
 
-
-## 7. 🔗 URLs
+```
+## 7.  URLs
 
 ### **1. Login Page**  
 [http://localhost/task-tracker/index.php/auth/login](http://localhost/task-tracker/index.php/auth/login)
