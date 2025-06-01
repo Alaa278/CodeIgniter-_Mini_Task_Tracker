@@ -56,19 +56,20 @@ $db['default'] = array(
 );
 
 
-## 7.  URLs
+## 7. 🔗 URLs
 
-### 1.  Login Page  
-(http://localhost/task-tracker/index.php/auth/login)
+### **1. Login Page**  
+[http://localhost/task-tracker/index.php/auth/login](http://localhost/task-tracker/index.php/auth/login)
 
-### 2. Admin Dashboard  
-(http://localhost/task-tracker/index.php/dashboard)
+### **2. Admin Dashboard**  
+[http://localhost/task-tracker/index.php/dashboard](http://localhost/task-tracker/index.php/dashboard)
 
-### 3. Tasks List  
-(http://localhost/task-tracker/index.php/tasks)
+### **3. Tasks List**  
+[http://localhost/task-tracker/index.php/tasks](http://localhost/task-tracker/index.php/tasks)
 
-### 4. JSON API Endpoint  
-(http://localhost/task-tracker/index.php/api/overdue_tasks)
+### **4. JSON API Endpoint**  
+[http://localhost/task-tracker/index.php/api/overdue_tasks](http://localhost/task-tracker/index.php/api/overdue_tasks)
 
-### 5. JSON APIfilterable by assigned_to
-(http://localhost/task-tracker/index.php/api/overdue_tasks?assigned_to=2)
+### **5. JSON API (filterable by assigned_to)**  
+[http://localhost/task-tracker/index.php/api/overdue_tasks?assigned_to=2](http://localhost/task-tracker/index.php/api/overdue_tasks?assigned_to=2)
+
