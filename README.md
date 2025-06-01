@@ -72,6 +72,6 @@ $db['default'] = array(
 [http://localhost/task-tracker/index.php/api/overdue_tasks](http://localhost/task-tracker/index.php/api/overdue_tasks)
 
 ### **5. JSON API (filterable by assigned_to)**  
-[http://localhost/task-tracker/index.php/api/overdue_tasks?assigned_to=2](http://localhost/task-tracker/index.php/api/overdue_tasks?assigned_to=1)
+[http://localhost/task-tracker/index.php/api/overdue_tasks?assigned_to=1](http://localhost/task-tracker/index.php/api/overdue_tasks?assigned_to=1)
 
 
