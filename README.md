@@ -27,7 +27,7 @@ Place the project inside your local server root directory.
 - Open phpMyAdmin
 - Create a new database called `task_tracker`
 - Import the provided `database.sql` file
-or open your browser and go to the this link (http://localhost/task-tracker/index.php/install) to create the database tables with with dummy data:
+or open your browser and go to the this link (http://localhost/task-tracker/index.php/install) to create the database tables with dummy data:
 
 ## 5. User Roles
 The following default users are created as part of the initial (dummy) data:
