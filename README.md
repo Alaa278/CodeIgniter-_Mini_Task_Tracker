@@ -19,7 +19,7 @@ Task Tracker is a simple web-based task management system built with CodeIgniter
 - Apache
 - Local dev server like XAMPP / WAMP / MAMP
 
-## 3. ⚙Setup Instructions
+## 3. Setup Instructions
 ### 1. Clone or Copy the Project
 Place the project inside your local server root directory.
 
